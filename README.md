@@ -52,14 +52,17 @@ To measure underlying revenue momentum without daily sales spikes, I calculated 
 ---
 
 ## Repository Structure
+
+```text
 customer-analytics-advanced-sql/
-├── 01_cohort_retention.sql # SQL script for cohort matrix calculations
-├── 02_rfm_segmentation.sql # SQL script for RFM scoring and customer tiers
-├── 03_moving_averages_kpis.sql # SQL script for rolling revenue and trends
-├── advanced_sql_customer_analytics.ipynb # Google Colab notebook running DuckDB
-├── cohort_retention_matrix.png # Rendered heatmap image
-├── rfm_segmentation_summary.csv # Exported summary table of customer segments
-└── README.md # Documentation
+├── 01_cohort_retention.sql
+├── 02_rfm_segmentation.sql
+├── 03_moving_averages_kpis.sql
+├── advanced_sql_customer_analytics.ipynb
+├── cohort_retention_matrix.png
+├── rfm_segmentation_summary.csv
+└── README.md
+```
 
 ---
 
