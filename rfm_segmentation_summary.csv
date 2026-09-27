@@ -1,0 +1,6 @@
+customer_segment,total_customers,avg_recency_days,avg_orders,avg_customer_spend,total_segment_revenue
+Loyal Customers,505,70.0,8.6,957.99,483786.57
+Champions,313,38.5,11.0,1309.58,409898.76
+At Risk / Churning,382,181.4,8.8,1013.32,387086.67
+Lost / Hibernating,558,185.2,4.6,533.99,297968.29
+Recent Inactive / New,242,35.4,5.3,607.51,147018.02
